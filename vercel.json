@@ -1,9 +1,4 @@
 {
-    "framework": "nextjs",
-    "rewrites": [
-      {
-        "source": "/(.*)",
-        "destination": "/"
-      }
-    ]
+    "framework": null,
+    "outputDirectory": "dist"
   }
